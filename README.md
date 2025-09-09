@@ -1,11 +1,21 @@
 # Projeto inStock
 Projeto desenvolvido durante a disciplina de Engenharia de Software
 
-Grupo: Amanda Nogueira Lino
-       Eric Victor do Amaral da Silva
-       Gabriela Cristina Moreira dos Santos
-       Nicole Cristine de Faria Santos
-       Tamires Morais Rodrigues
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+**Grupo:**
+
+Amanda Nogueira Lino
+
+Eric Victor do Amaral da Silva
+
+Gabriela Cristina Moreira dos Santos
+
+Nicole Cristine de Faria Santos
+
+Tamires Morais Rodrigues
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 O projeto consiste no desenvolvimento de um Sistema de Controle de Estoque voltado para pequenas e médias empresas, com foco na organização e gestão eficiente dos produtos armazenados. O sistema será acessado mediante tela de login e autenticação, garantindo segurança no controle de informações e oferecendo diferentes níveis de permissão para usuários, como administradores e funcionários
 
