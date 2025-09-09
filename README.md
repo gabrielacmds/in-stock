@@ -1,4 +1,4 @@
-# projeto-engenharia-de-software
+# Projeto inStock
 Projeto desenvolvido durante a disciplina de Engenharia de Software
 
 Grupo: Amanda Nogueira Lino
